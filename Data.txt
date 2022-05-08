@@ -1,2 +1,2 @@
-data types
-ex
+Data types..
+	Explicit and implicit type casting
